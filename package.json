@@ -1,0 +1,9 @@
+{
+  "name": "parcel-svelte",
+  "version": "1.0.0",
+  "description": "Репозиторий для проверки Svelte на Parcel",
+  "repository": "https://github.com/newbornfrontender/parcel-svelte.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
