@@ -6,6 +6,10 @@
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "parcel index.html --no-cache",
+    "build": "parcel build index.html"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.10.3",
     "parcel-plugin-svelte": "^1.2.3",
