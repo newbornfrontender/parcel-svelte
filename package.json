@@ -5,5 +5,10 @@
   "repository": "https://github.com/newbornfrontender/parcel-svelte.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3",
+    "parcel-plugin-svelte": "^1.2.3",
+    "svelte": "^2.14.3"
+  }
 }
